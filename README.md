@@ -6,7 +6,7 @@ https://www.javascriptbook.com/
 
 ## Introduction
 
-1.  The ABC of Programming
+[1.  The ABC of Programming] (https://github.com/mrbuzzgit/JS-by-Jon-Duckett/tree/3c6aa613154308fb95cf86b05cd44a587c1afb32/chapter-01%20-%20The%20ABC%20of%20Programming)
 2.  Basic JavaScript Instructions
 3.  Functions, Methods, & Objects
 4.  Decisions & Loops
